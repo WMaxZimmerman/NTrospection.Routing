@@ -1,0 +1,17 @@
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.deps.json
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.runtimeconfig.json
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.runtimeconfig.dev.json
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.dll
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.pdb
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.CLI.dll
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.CLI.pdb
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.csprojAssemblyReference.cache
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.csproj.CoreCompileInputs.cache
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.AssemblyInfoInputs.cache
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.AssemblyInfo.cs
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.csproj.CopyComplete
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.dll
+C:\git\NTrospection.Routing\NTrospection.Routing\Tests\NTrospection.Routing.Tests.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.Tests.CLI.pdb

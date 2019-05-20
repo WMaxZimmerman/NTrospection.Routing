@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\Tests\\NTrospection.Routing.CLI.TestApp\\NTrospection.Routing.CLI.TestApp.csproj": {}
+  },
+  "projects": {
+    "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\NTrospection.Routing.CLI\\NTrospection.Routing.CLI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\NTrospection.Routing.CLI\\NTrospection.Routing.CLI.csproj",
+        "projectName": "NTrospection.Routing.CLI",
+        "projectPath": "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\NTrospection.Routing.CLI\\NTrospection.Routing.CLI.csproj",
+        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\NTrospection.Routing.CLI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\Tests\\NTrospection.Routing.CLI.TestApp\\NTrospection.Routing.CLI.TestApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\Tests\\NTrospection.Routing.CLI.TestApp\\NTrospection.Routing.CLI.TestApp.csproj",
+        "projectName": "NTrospection.Routing.CLI.TestApp",
+        "projectPath": "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\Tests\\NTrospection.Routing.CLI.TestApp\\NTrospection.Routing.CLI.TestApp.csproj",
+        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\Tests\\NTrospection.Routing.CLI.TestApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\NTrospection.Routing.CLI\\NTrospection.Routing.CLI.csproj": {
+                "projectPath": "C:\\git\\NTrospection.Routing\\NTrospection.Routing\\NTrospection.Routing.CLI\\NTrospection.Routing.CLI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

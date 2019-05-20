@@ -1,0 +1,9 @@
+C:\git\NTrospection.Routing\NTrospection.Routing\NTrospection.Routing.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.CLI.deps.json
+C:\git\NTrospection.Routing\NTrospection.Routing\NTrospection.Routing.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.CLI.dll
+C:\git\NTrospection.Routing\NTrospection.Routing\NTrospection.Routing.CLI\bin\Debug\netcoreapp2.2\NTrospection.Routing.CLI.pdb
+C:\git\NTrospection.Routing\NTrospection.Routing\NTrospection.Routing.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.CLI.csproj.CoreCompileInputs.cache
+C:\git\NTrospection.Routing\NTrospection.Routing\NTrospection.Routing.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.CLI.AssemblyInfoInputs.cache
+C:\git\NTrospection.Routing\NTrospection.Routing\NTrospection.Routing.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.CLI.AssemblyInfo.cs
+C:\git\NTrospection.Routing\NTrospection.Routing\NTrospection.Routing.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.CLI.dll
+C:\git\NTrospection.Routing\NTrospection.Routing\NTrospection.Routing.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.CLI.pdb
+C:\git\NTrospection.Routing\NTrospection.Routing\NTrospection.Routing.CLI\obj\Debug\netcoreapp2.2\NTrospection.Routing.CLI.csprojAssemblyReference.cache
